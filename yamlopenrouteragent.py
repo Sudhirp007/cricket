@@ -4,7 +4,7 @@ import os
 from collections import defaultdict
 
 # 1. Configure OpenRouter
-os.environ['OPENROUTER_API_KEY'] = "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"
+os.environ['OPENROUTER_API_KEY'] = "yourapikey"
 
 llm = ChatOpenAI(
     model="mistralai/mistral-7b-instruct",
