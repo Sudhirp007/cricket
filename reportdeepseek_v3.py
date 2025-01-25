@@ -14,7 +14,7 @@ from collections import defaultdict
 # --------------------------
 # CONFIGURATION SETTINGS
 # --------------------------
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "yourapikey"
 MODEL = "mistralai/mistral-7b-instruct"
 
 # Visual customization parameters
